@@ -58,4 +58,4 @@
 
 </div>
 
-<p align="center"><sub>SIMHADRI BHUKYA  · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>SIMHADRI BHUKYA  · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub
