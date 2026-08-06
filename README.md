@@ -156,3 +156,252 @@ I enjoy creating complete applications—from training ML models to developing m
 ### ⚡ *"Consistency beats intensity."*
 
 </div>
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🎬 Movie Recommendation System
+
+AI-powered movie recommendation engine using NLP and Cosine Similarity.
+
+### ✨ Features
+
+- Smart Recommendations
+- TMDB Dataset
+- Fast Search
+- Interactive UI
+
+### 🛠 Tech Stack
+
+`Python` `Scikit-Learn` `Pandas` `Streamlit`
+
+<br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="images/movie-recommendation.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img src="images/twitter-sentiment.gif" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+## 💬 Twitter Sentiment Analysis
+
+End-to-end Machine Learning web application for sentiment prediction.
+
+### ✨ Features
+
+- Real-time Prediction
+- Analytics Dashboard
+- FastAPI Backend
+- React Frontend
+
+### 🛠 Tech Stack
+
+`FastAPI`
+
+`React`
+
+`Scikit-Learn`
+
+`SQLite`
+
+<br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 📊 Customer Churn Prediction
+
+Predict customer churn using supervised machine learning algorithms.
+
+### ✨ Features
+
+- Data Analysis
+- Feature Engineering
+- Prediction Dashboard
+- Interactive Charts
+
+### 🛠 Tech Stack
+
+`Python`
+
+`Pandas`
+
+`Scikit-Learn`
+
+`Matplotlib`
+
+<br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="images/churn.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img src="images/translation.gif" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+## 🌍 AI Language Translation Tool
+
+Translate text instantly using AI-powered language models.
+
+### ✨ Features
+
+- Multiple Languages
+- Instant Translation
+- Clean UI
+- Lightweight
+
+### 🛠 Tech Stack
+
+`Python`
+
+`Streamlit`
+
+`Deep Translator`
+
+<br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 NEXORA AI Workspace
+
+Modern AI productivity workspace combining intelligent automation and powerful tools.
+
+### ✨ Features
+
+- AI Workspace
+- FastAPI Backend
+- React Frontend
+- Modern UI
+
+### 🛠 Tech Stack
+
+`FastAPI`
+
+`React`
+
+`PostgreSQL`
+
+`Docker`
+
+<br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="images/nexora.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🌱 Current Focus
+
+- 🤖 Building production-ready AI applications
+- 🧠 Learning LLMs & AI Agents
+- ⚡ Mastering FastAPI & React
+- ☁️ Exploring Cloud & Docker
+- 🌍 Contributing to Open Source
+- 📚 Improving DSA & System Design
