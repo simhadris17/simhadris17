@@ -1,56 +1,58 @@
 <div align="center">
 
-<h3><code>simhadris17012005@github ~ $ whoami</code></h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090909,25:0F172A,50:1E3A8A,75:6D28D9,100:9333EA&text=BHUKYA%20SIMHADRI&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60&animation=fadeIn"/>
 
-<table>
-<tr>
-<td width="42%" valign="top"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=simhadris17012005&theme=github-dark&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=simhadris17012005&theme=github-dark&style=terminal&mode=dark" width="100%" alt="simhadris17012005 portrait" />
-</picture></td>
-<td width="58%" valign="top"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=simhadris17012005&theme=github-dark&style=terminal&label=SIMHADRI+BHUKYA&mode=light" />
-  <img src="https://www.gitskins.com/api/section/wordmark?username=simhadris17012005&theme=github-dark&style=terminal&label=SIMHADRI+BHUKYA&mode=dark" width="100%" alt="simhadris17012005 wordmark" />
-</picture></td>
-</tr>
-</table>
+<br>
 
-<p><b>Frontend or full-stack engineer</b></p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Applications;Machine+Learning+%7C+FastAPI+%7C+React;Always+Learning+New+Technologies;Open+Source+Enthusiast"/>
 
-<p><a href="https://github.com/simhadris17012005">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/simhadri-bhukya-7882b3241">Website</a></p>
+<br><br>
+
+<img src="https://img.shields.io/github/followers/simhadris17012005?style=for-the-badge&logo=github&color=181717"/>
+<img src="https://img.shields.io/github/stars/simhadris17012005?style=for-the-badge&color=FFD700"/>
+<img src="https://komarev.com/ghpvc/?username=simhadris17012005&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/badge/Open%20Source-Love-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Engineering-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine-Learning-9333EA?style=for-the-badge"/>
 
 </div>
 
-<div align="center">
+---
 
-<h3><code>simhadris17012005@github ~ $ ./contributions.sh</code></h3>
+# 💎 About Me
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=simhadris17012005&theme=github-dark&style=terminal&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=simhadris17012005&theme=github-dark&style=terminal&mode=dark" width="100%" alt="simhadris17012005 heatmap" />
-</picture>
+<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRjdDRvbW9iN2U0cmRjM2Y2eDdzNnA1M2Nva2h6Zm5pcXN0eml4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
 
-</div>
+### 👋 Hello!
 
-<p align="center"><sub>SIMHADRI BHUKYA  · Profile generated with <a href="https://www.gitskins.com/readme-generator"<SIMHADRI></p> 
-<div align="center">
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=simhadris17012005&show_icons=true&theme=react&hide_border=true&bg_color=131722" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simhadris17012005&layout=compact&theme=react&hide_border=true&bg_color=131722" alt="Top Languages" />
-</p>
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=simhadris17012005&theme=react&hide_border=true&background=131722" alt="GitHub Streak" />
-</p>
-</div>
-simhadris17012005@github ~ $ ./contributions.sh
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.github.com/api/section/heatmap?username=simhadris17012005&theme=github-dark&style=terminal&mode=light" />
-<img src="https://www.github.com/api/section/heatmap?username=simhadris17012005&theme=github-dark&style=terminal&mode=dark" width="100%" alt="simhadris17012005 heatmap" />
-</picture>
-</div>
-<div align="center">
-<code>simhadris17012005@github ~ $ exit</code>
+I'm **Bhukya Simhadri**, a passionate **AI Engineer** and **Machine Learning Developer** focused on building intelligent software that solves real-world problems.
 
-<sub><b>SIMHADRI BHUKYA</b> · Crafted with 💻 and ☕</sub>
-</div>
+I enjoy creating complete applications—from training ML models to developing modern APIs and interactive user interfaces.
+
+### 🎯 Current Focus
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ⚡ FastAPI Backend Development
+- 💻 React Frontend Development
+- 🐳 Docker
+- ☁️ Cloud Deployment
+
+---
+
+### 🌱 Currently Learning
+
+- Large Language Models (LLMs)
+- AI Agents
+- Deep Learning
+- System Design
+- Kubernetes
+- AWS
+
+---
+
+### 💡 Philosophy
+
+> **"Code with purpose. Build with quality. Learn continuously."**
+
+---
