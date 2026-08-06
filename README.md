@@ -32,4 +32,25 @@
 
 </div>
 
-<p align="center"><sub>SIMHADRI BHUKYA  · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p> diniikanna better version kavali
+<p align="center"><sub>SIMHADRI BHUKYA  · Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p> 
+<div align="center">
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=simhadris17012005&show_icons=true&theme=react&hide_border=true&bg_color=131722" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simhadris17012005&layout=compact&theme=react&hide_border=true&bg_color=131722" alt="Top Languages" />
+</p>
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=simhadris17012005&theme=react&hide_border=true&background=131722" alt="GitHub Streak" />
+</p>
+</div>
+simhadris17012005@github ~ $ ./contributions.sh
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=simhadris17012005&theme=github-dark&style=terminal&mode=light" />
+<img src="https://www.gitskins.com/api/section/heatmap?username=simhadris17012005&theme=github-dark&style=terminal&mode=dark" width="100%" alt="simhadris17012005 heatmap" />
+</picture>
+</div>
+<div align="center">
+<code>simhadris17012005@github ~ $ exit</code>
+
+<sub><b>SIMHADRI BHUKYA</b> · Crafted with 💻 and ☕</sub>
+</div>
