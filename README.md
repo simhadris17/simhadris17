@@ -56,3 +56,103 @@ I enjoy creating complete applications—from training ML models to developing m
 > **"Code with purpose. Build with quality. Learn continuously."**
 
 ---
+# ⚡ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,html,css" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
+
+### ☁️ Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
+</p>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=simhadris17012005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simhadris17012005&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=simhadris17012005&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simhadris17012005&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=simhadris17012005&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📌 Quick Highlights
+
+<div align="center">
+
+| 🚀 Focus | 💡 Status |
+|-----------|-----------|
+| 🤖 AI Engineering | Active |
+| 🧠 Machine Learning | Advanced Learning |
+| ⚡ FastAPI | Building APIs |
+| 💻 React | Production UI |
+| 🐳 Docker | Learning |
+| ☁️ Cloud | In Progress |
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ *"Consistency beats intensity."*
+
+</div>
