@@ -1,181 +1,106 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,30:111827,60:1E3A8A,100:7C3AED&text=BHUKYA%20SIMHADRI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=18&descColor=00F5FF&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090909,25:0F172A,50:1E3A8A,75:6D28D9,100:9333EA&text=BHUKYA%20SIMHADRI&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+AI+Powered+Applications;Machine+Learning+%7C+Backend+%7C+Frontend;Learning+by+Building+Real+Projects;Engineering+Ideas+into+Software"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Applications;Machine+Learning+%7C+FastAPI+%7C+React;Always+Learning+New+Technologies;Open+Source+Enthusiast"/>
 
 <br><br>
 
-<a href="https://github.com/simhadris17012005">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00F5FF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/simhadri-bhukya-7882b3241">
-<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
-</a>
-
-<a href="mailto:simhadris554@gmail.com">
-<img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
-</a>
-
-<br><br>
-
+<img src="https://img.shields.io/github/followers/simhadris17012005?style=for-the-badge&logo=github&color=181717"/>
+<img src="https://img.shields.io/github/stars/simhadris17012005?style=for-the-badge&color=FFD700"/>
 <img src="https://komarev.com/ghpvc/?username=simhadris17012005&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/badge/Open%20Source-Love-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Engineering-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine-Learning-9333EA?style=for-the-badge"/>
 
 </div>
 
-<br>
+---
 
-## `$ whoami`
+# 💎 About Me
 
-```bash
-NAME:     Bhukya Simhadri
-ROLE:     Computer Science Engineering Student
-FOCUS:    Artificial Intelligence · Machine Learning · Full-Stack Development
-COLLEGE:  Visvesvaraya College of Engineering and Technology
-DEGREE:   B.Tech Computer Science Engineering
+<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRjdDRvbW9iN2U0cmRjM2Y2eDdzNnA1M2Nva2h6Zm5pcXN0eml4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
 
-MISSION:
-    > Build intelligent applications
-    > Solve real-world problems
-    > Become a stronger software engineer
-```
+### 👋 Hello!
 
-<br>
+I'm **Bhukya Simhadri**, a passionate **AI Engineer** and **Machine Learning Developer** focused on building intelligent software that solves real-world problems.
 
-## `$ cat engineering_identity.md`
+I enjoy creating complete applications—from training ML models to developing modern APIs and interactive user interfaces.
 
-I build software at the intersection of **Artificial Intelligence**, **Machine Learning**, and **Full-Stack Engineering** — turning ideas into working, deployed products rather than stopping at prototypes.
+### 🎯 Current Focus
 
-```
-Problem → Understanding → Design → Development → Testing → Improvement
-```
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- ⚡ FastAPI Backend Development
+- 💻 React Frontend Development
+- 🐳 Docker
+- ☁️ Cloud Deployment
 
-<br>
+---
 
-## `$ tree engineering_loop/`
+### 🌱 Currently Learning
 
-```
-┌──────────────────────────────────────────┐
-│              ENGINEERING LOOP             │
-├──────────────────────────────────────────┤
-│  Identify Problem                         │
-│        ↓                                  │
-│  Understand Data / Requirements           │
-│        ↓                                  │
-│  Design Solution                          │
-│        ↓                                  │
-│  Build Model / Application Logic          │
-│        ↓                                  │
-│  Develop API + User Experience            │
-│        ↓                                  │
-│  Test & Debug                             │
-│        ↓                                  │
-│  Iterate & Improve                        │
-└──────────────────────────────────────────┘
-```
+- Large Language Models (LLMs)
+- AI Agents
+- Deep Learning
+- System Design
+- Kubernetes
+- AWS
 
-<br>
+---
 
-## `$ ls tech-stack/`
+### 💡 Philosophy
 
-**Languages**
+> **"Code with purpose. Build with quality. Learn continuously."**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-**AI / Machine Learning**
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
-**Backend**
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-**Database**
-
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-**Tools & Deployment**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-<br>
-
-## `$ cat featured_project.md`
-
-### 🔍 Astra Lens v2 — Explainable AI Deepfake Detection
-
-An end-to-end platform that detects AI-generated and manipulated media (images + video) and explains **why**, using Grad-CAM heatmaps instead of a black-box verdict.
-
-```
-Backend      → FastAPI + PyTorch (EfficientNet-B0)
-Explainability → Grad-CAM / Grad-CAM++
-Video Engine  → OpenCV frame sampling → per-frame inference → aggregated verdict
-Frontend     → React + Vite + Tailwind (glassmorphic dark UI)
-Auditing     → Supabase session logs
-Deployment   → Render (backend) · Vercel (frontend)
-Dataset      → Hugging Face — Parveshiiii/AI-vs-Real
-```
-
-<br>
-
-## `$ cat current_focus.yaml`
-
-```yaml
-learning:
-  - Advanced Machine Learning
-  - Deep Learning
-  - Generative AI
-  - AI Agents
-  - System Design
-  - Cloud Technologies
-
-building:
-  - Astra Lens v2 — Explainable Deepfake Detection
-  - NEXORA AI Workspace
-  - Full-Stack AI Applications
-
-improving:
-  - Data Structures & Algorithms
-  - Backend Engineering
-  - React Development
-  - API Design
-  - Deployment
-```
-
-<br>
-
-## `$ github-stats`
+---
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=simhadris17012005&show_icons=true&theme=radical&hide_border=true&bg_color=050505&title_color=00F5FF&icon_color=7C3AED" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=simhadris17012005&theme=radical&hide_border=true&background=050505&ring=00F5FF&fire=7C3AED" height="165"/>
+### 💻 Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simhadris17012005&layout=compact&theme=radical&hide_border=true&bg_color=050505&title_color=00F5FF"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,c,html,css" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
+</p>
+
+### ☁️ Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
+</p>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=simhadris17012005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simhadris17012005&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -183,12 +108,300 @@ improving:
 
 <div align="center">
 
-### `$ echo "Let's build something intelligent."`
+<img src="https://streak-stats.demolab.com?user=simhadris17012005&theme=tokyonight&hide_border=true"/>
 
-<a href="https://www.linkedin.com/in/simhadri-bhukya-7882b3241">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simhadris17012005&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=simhadris17012005&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📌 Quick Highlights
+
+<div align="center">
+
+| 🚀 Focus | 💡 Status |
+|-----------|-----------|
+| 🤖 AI Engineering | Active |
+| 🧠 Machine Learning | Advanced Learning |
+| ⚡ FastAPI | Building APIs |
+| 💻 React | Production UI |
+| 🐳 Docker | Learning |
+| ☁️ Cloud | In Progress |
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ *"Consistency beats intensity."*
+
+</div>
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🎬 Movie Recommendation System
+
+AI-powered movie recommendation engine using NLP and Cosine Similarity.
+
+### ✨ Features
+
+- Smart Recommendations
+- TMDB Dataset
+- Fast Search
+- Interactive UI
+
+### 🛠 Tech Stack
+
+`Python` `Scikit-Learn` `Pandas` `Streamlit`
+
+<br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7C3AED,100:050505&section=footer"/>
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="images/movie-recommendation.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img src="images/twitter-sentiment.gif" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+## 💬 Twitter Sentiment Analysis
+
+End-to-end Machine Learning web application for sentiment prediction.
+
+### ✨ Features
+
+- Real-time Prediction
+- Analytics Dashboard
+- FastAPI Backend
+- React Frontend
+
+### 🛠 Tech Stack
+
+`FastAPI`
+
+`React`
+
+`Scikit-Learn`
+
+`SQLite`
+
+<br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 📊 Customer Churn Prediction
+
+Predict customer churn using supervised machine learning algorithms.
+
+### ✨ Features
+
+- Data Analysis
+- Feature Engineering
+- Prediction Dashboard
+- Interactive Charts
+
+### 🛠 Tech Stack
+
+`Python`
+
+`Pandas`
+
+`Scikit-Learn`
+
+`Matplotlib`
+
+<br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="images/churn.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img src="images/translation.gif" width="100%"/>
+
+</td>
+
+<td width="50%">
+
+## 🌍 AI Language Translation Tool
+
+Translate text instantly using AI-powered language models.
+
+### ✨ Features
+
+- Multiple Languages
+- Instant Translation
+- Clean UI
+- Lightweight
+
+### 🛠 Tech Stack
+
+`Python`
+
+`Streamlit`
+
+`Deep Translator`
+
+<br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🤖 NEXORA AI Workspace
+
+Modern AI productivity workspace combining intelligent automation and powerful tools.
+
+### ✨ Features
+
+- AI Workspace
+- FastAPI Backend
+- React Frontend
+- Modern UI
+
+### 🛠 Tech Stack
+
+`FastAPI`
+
+`React`
+
+`PostgreSQL`
+
+`Docker`
+
+<br>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+<img src="images/nexora.gif" width="100%"/>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
+
+---
+
+# 🌱 Current Focus
+
+- 🤖 Building production-ready AI applications
+- 🧠 Learning LLMs & AI Agents
+- ⚡ Mastering FastAPI & React
+- ☁️ Exploring Cloud & Docker
+- 🌍 Contributing to Open Source
+- 📚 Improving DSA & System Design
