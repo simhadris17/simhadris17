@@ -1,58 +1,77 @@
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=230&color=0:05070A,45:0B1120,100:1E3A8A&text=BHUKYA%20SIMHADRI&fontSize=48&fontColor=00F5FF&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=18&descColor=8B5CF6&animation=fadeIn"/><br><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=%24+whoami+%E2%86%92+Bhukya+Simhadri;%24+focus+%E2%86%92+AI+%7C+Machine+Learning;%24+build+%E2%86%92+Full-Stack+AI+Applications;%24+explore+%E2%86%92+Generative+AI+%7C+AI+Agents;%24+status+%E2%86%92+Building+%26+Learning"/><br><br>
-
-<a href="https://github.com/simhadris17012005">
-<img src="https://img.shields.io/badge/GitHub-05070A?style=for-the-badge&logo=github&logoColor=00F5FF"/>
-</a><a href="https://www.linkedin.com/in/simhadri-bhukya-7882b3241">
-<img src="https://img.shields.io/badge/LinkedIn-05070A?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
-</a><a href="mailto:simhadris554@gmail.com">
-<img src="https://img.shields.io/badge/Email-05070A?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=shark&height=240&color=0:030712,50:0B1120,100:1E40AF&text=BHUKYA%20SIMHADRI&fontSize=48&fontColor=00F5FF&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=62&descSize=17&descColor=8B5CF6&animation=fadeIn"/><br><a href="https://github.com/simhadris17012005">
+<img src="https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/simhadri-bhukya-7882b3241">
+<img src="https://img.shields.io/badge/LinkedIn-030712?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
+</a>
+&nbsp;
+<a href="mailto:simhadris554@gmail.com">
+<img src="https://img.shields.io/badge/Email-030712?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/>
 </a><br><br>
 
-<img src="https://komarev.com/ghpvc/?username=simhadris17012005&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/><img src="https://img.shields.io/github/followers/simhadris17012005?style=for-the-badge&color=8B5CF6&labelColor=05070A&logo=github&logoColor=00F5FF"/></div>---
+<img src="https://komarev.com/ghpvc/?username=simhadris17012005&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/simhadris17012005?style=for-the-badge&color=8B5CF6&labelColor=030712&logo=github&logoColor=00F5FF"/></div><br><div align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=%24+whoami+%E2%86%92+Bhukya+Simhadri;%24+focus+%E2%86%92+AI+%7C+Machine+Learning;%24+build+%E2%86%92+Full-Stack+AI+Applications;%24+explore+%E2%86%92+Generative+AI+%7C+AI+Agents;%24+status+%E2%86%92+Building+%7C+Learning+%7C+Shipping"/></div>---
 
 "> whoami"
 
 I'm Bhukya Simhadri, a B.Tech Computer Science Engineering student focused on Artificial Intelligence, Machine Learning, and Full-Stack Development.
 
-I build practical applications that combine machine learning models, APIs, databases, and modern web interfaces. My current direction is toward AI Engineering, with a focus on learning by building and shipping real projects.
+I enjoy turning ideas into practical software by combining ML models, APIs, databases, and modern web interfaces. My goal is to grow into an AI-focused software engineer by continuously building, experimenting, and shipping real applications.
 
-$ cat .profile
-
-NAME       = Bhukya Simhadri
-ROLE       = AI / ML / Full-Stack Developer
-EDUCATION  = B.Tech Computer Science Engineering
-FOCUS      = Artificial Intelligence + Software Engineering
-
-LANGUAGES  = Python | JavaScript | C | SQL
-ML / DATA  = Scikit-Learn | Pandas | NumPy | NLP
-FRONTEND   = React | Vite | HTML | CSS
-BACKEND    = FastAPI | Flask | Node.js
-DATABASE   = SQLite | MySQL | PostgreSQL
-TOOLS      = Git | GitHub | Docker | VS Code | Postman
-
-STATUS     = Learning + Building + Improving
+┌──────────────────────────────────────────────────────────────┐
+│                        .profile                              │
+├──────────────────────────────────────────────────────────────┤
+│ NAME       : Bhukya Simhadri                                │
+│ ROLE       : AI / ML / Full-Stack Developer                  │
+│ EDUCATION  : B.Tech Computer Science Engineering             │
+│ FOCUS      : Artificial Intelligence + Software Engineering  │
+│                                                              │
+│ LANGUAGES  : Python | JavaScript | C | SQL                   │
+│ ML / DATA  : Scikit-Learn | Pandas | NumPy | NLP             │
+│ FRONTEND   : React | Vite | HTML | CSS                       │
+│ BACKEND    : FastAPI | Flask | Node.js                       │
+│ DATABASE   : SQLite | MySQL | PostgreSQL                     │
+│ TOOLS      : Git | GitHub | Docker | VS Code | Postman      │
+│                                                              │
+│ STATUS     : Learning + Building + Improving                 │
+└──────────────────────────────────────────────────────────────┘
 
 ---
 
 "> cat /focus"
 
-AI ENGINEERING
-├── Machine Learning
-├── Natural Language Processing
-├── Generative AI
-└── AI Applications
+<table>
+<tr>
+<td width="50%" valign="top">🤖 AI Engineering
 
-SOFTWARE ENGINEERING
-├── Backend APIs
-├── Full-Stack Development
-├── Databases
-└── Application Architecture
+Machine Learning
+Natural Language Processing
+Generative AI
+AI Applications
+Recommendation Systems
+Predictive Modeling
 
-CURRENTLY EXPLORING
-├── Deep Learning
-├── AI Agents
-├── System Design
-└── Cloud & DevOps
+</td>
+<td width="50%" valign="top">⚙️ Software Engineering
+
+Backend APIs
+Full-Stack Development
+REST Architecture
+Databases
+Application Architecture
+Deployment
+
+</td>
+</tr>
+</table>"currently exploring"
+
+Deep Learning
+AI Agents
+System Design
+Cloud & DevOps
+Production AI Applications
 
 ---
 
@@ -60,21 +79,33 @@ CURRENTLY EXPLORING
 
 "languages"
 
-<div align="center"><img src="https://skillicons.dev/icons?i=python,javascript,c,html,css&theme=dark"/></div>"ai / machine-learning"
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,c,html,css&theme=dark"/>
+</p>"ai / machine-learning"
 
-<div align="center"><img src="https://img.shields.io/badge/Python-05070A?style=for-the-badge&logo=python&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-05070A?style=for-the-badge&logo=scikit-learn&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/Pandas-05070A?style=for-the-badge&logo=pandas&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/NumPy-05070A?style=for-the-badge&logo=numpy&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/NLP-05070A?style=for-the-badge&logoColor=8B5CF6"/></div>"frontend"
+<p>
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-030712?style=for-the-badge&logo=scikit-learn&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Pandas-030712?style=for-the-badge&logo=pandas&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/NumPy-030712?style=for-the-badge&logo=numpy&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/NLP-030712?style=for-the-badge&logoColor=8B5CF6"/>
+</p>"frontend"
 
-<div align="center"><img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/></div>"backend"
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark"/>
+</p>"backend"
 
-<div align="center"><img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&theme=dark"/></div>"database"
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&theme=dark"/>
+</p>"database"
 
-<div align="center"><img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql&theme=dark"/></div>"tools"
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql&theme=dark"/>
+</p>"tools"
 
-<div align="center"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux&theme=dark"/></div>---
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux&theme=dark"/>
+</p>---
 
 "> ls /projects"
 
@@ -90,14 +121,18 @@ Core| Feature Extraction · NLP · Cosine Similarity
 Dataset| TMDB 5000 Movie Dataset
 Repository| "View Project" (https://github.com/simhadris17012005/Movie-Recommendation-System)
 
-Pipeline: Data preprocessing → Feature engineering → Similarity calculation → Recommendation interface
+Pipeline
+
+Data → Preprocessing → Feature Engineering
+     → Similarity Calculation → Recommendations
+     → Streamlit Interface
 
 </details>---
 
 "02" — 💬 Twitter Sentiment Analysis
 
 <details>
-<summary><b>End-to-End Machine Learning Application</b></summary><br>An end-to-end sentiment analysis application combining a machine learning pipeline with a FastAPI backend and React frontend.
+<summary><b>End-to-End Machine Learning Application</b></summary><br>An end-to-end sentiment analysis platform combining a machine learning pipeline with a FastAPI backend and React frontend.
 
 Component| Details
 Type| Full-Stack ML Application
@@ -107,30 +142,43 @@ Backend| FastAPI REST API
 Frontend| React + Vite
 Repository| "View Project" (https://github.com/simhadris17012005/Twitter-Sentiment-Analysis)
 
-Pipeline: Text preprocessing → TF-IDF → Classification → REST API → Interactive frontend
+Pipeline
+
+Text Input → Preprocessing → TF-IDF
+           → ML Classification → REST API
+           → React Interface → Result
 
 </details>---
 
 "03" — 🤖 NEXORA
 
 <details>
-<summary><b>Full-Stack AI Workspace</b></summary><br>A full-stack AI workspace project focused on modular architecture, APIs, authentication, integrations, databases, and intelligent application capabilities.
+<summary><b>Full-Stack AI Workspace</b></summary><br>A modular full-stack AI workspace focused on AI integrations, APIs, authentication, databases, and scalable application architecture.
 
 Component| Details
 Type| Full-Stack AI Platform
 Backend| FastAPI
 Frontend| React
 Architecture| Modular API-driven architecture
+Focus| AI · APIs · Authentication · Databases
 Status| Active Development
 
-Focus: AI integrations · APIs · Authentication · Database architecture · Application structure
+AI Integrations
+      ↓
+API Layer
+      ↓
+Authentication
+      ↓
+Database
+      ↓
+Frontend Workspace
 
 </details>---
 
 "04" — 📊 Customer Churn Prediction
 
 <details>
-<summary><b>Predictive Machine Learning System</b></summary><br>A classification-based machine learning project designed to predict customer churn from structured customer data.
+<summary><b>Predictive Machine Learning System</b></summary><br>A classification-based ML system designed to predict customer churn from structured customer data.
 
 Component| Details
 Type| Classification
@@ -169,7 +217,7 @@ Repository| "View Project" (https://github.com/simhadris17012005/CodeAlpha_Emoti
 "07" — 💳 Credit Scoring Model
 
 <details>
-<summary><b>Credit Risk Prediction</b></summary><br>A machine learning project for credit scoring and predictive classification using structured financial data.
+<summary><b>Credit Risk Prediction</b></summary><br>A machine learning project focused on credit scoring and predictive classification using structured financial data.
 
 Component| Details
 Type| Predictive Modeling
@@ -184,16 +232,16 @@ Repository| "View Project" (https://github.com/simhadris17012005/CodeAlpha_Credi
 2026
 │
 ├── Machine Learning
-│   ├── Built classification systems
-│   ├── Developed recommendation systems
-│   ├── Worked with NLP pipelines
-│   └── Created end-to-end ML applications
+│   ├── Classification systems
+│   ├── Recommendation systems
+│   ├── NLP pipelines
+│   └── End-to-end ML applications
 │
 ├── Full-Stack Development
-│   ├── Built React interfaces
-│   ├── Developed FastAPI backends
-│   ├── Designed REST APIs
-│   └── Integrated ML models with applications
+│   ├── React interfaces
+│   ├── FastAPI backends
+│   ├── REST APIs
+│   └── ML model integration
 │
 └── Engineering Growth
     ├── Git & GitHub
@@ -205,20 +253,18 @@ Repository| "View Project" (https://github.com/simhadris17012005/CodeAlpha_Credi
 
 "> cat /achievements"
 
-<div align="center">Achievement| Area
+Achievement| Area
 Machine Learning Internship Projects| AI / ML
 End-to-End ML Applications| Software Engineering
 Multiple GitHub ML Projects| Open Development
 Full-Stack AI Application Development| AI Engineering
 AI / ML Coursework & Certifications| Continuous Learning
 
-</div>---
+---
 
 "> cat /education"
 
-<div align="center"><img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-05070A?style=for-the-badge&logoColor=00F5FF"/><br><br>
-
-Visvesvaraya College of Engineering and Technology
+<div align="center"><img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20Engineering-030712?style=for-the-badge&logo=graduation-cap&logoColor=00F5FF"/>Visvesvaraya College of Engineering and Technology
 
 </div>---
 
@@ -254,30 +300,28 @@ open_to:
 
 "> git status"
 
-<div align="center">┌─────────────────────────────────────────────┐
-│                                             │
-│  STATUS                                     │
-│                                             │
-│  ● Learning                                 │
-│  ● Building                                 │
-│  ● Experimenting                            │
-│  ● Improving                                │
-│                                             │
-│  > next_commit()                            │
-│                                             │
-└─────────────────────────────────────────────┘
+<div align="center">┌──────────────────────────────────────────────┐
+│                  WORKSPACE                   │
+├──────────────────────────────────────────────┤
+│                                              │
+│   ● LEARNING                                 │
+│   ● BUILDING                                 │
+│   ● EXPERIMENTING                            │
+│   ● IMPROVING                                │
+│                                              │
+│   > next_commit()                            │
+│                                              │
+└──────────────────────────────────────────────┘
 
 </div>---
 
 "> git stats"
 
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=simhadris17012005&show_icons=true&hide_border=true&bg_color=05070A&title_color=00F5FF&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simhadris17012005&layout=compact&hide_border=true&bg_color=05070A&title_color=00F5FF&text_color=E5E7EB"/><br><br>
-
-<img src="https://streak-stats.demolab.com?user=simhadris17012005&hide_border=true&background=05070A&stroke=00F5FF&ring=8B5CF6&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=E5E7EB&dates=9CA3AF"/></div>---
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=simhadris17012005&show_icons=true&hide_border=true&bg_color=030712&title_color=00F5FF&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simhadris17012005&layout=compact&hide_border=true&bg_color=030712&title_color=00F5FF&text_color=E5E7EB"/></div><br><div align="center"><img src="https://streak-stats.demolab.com?user=simhadris17012005&hide_border=true&background=030712&stroke=00F5FF&ring=8B5CF6&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=E5E7EB&dates=9CA3AF"/></div>---
 
 "> git activity"
 
-<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=simhadris17012005&bg_color=05070A&color=00F5FF&line=8B5CF6&point=00F5FF&area=true&hide_border=true"/></div>---
+<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=simhadris17012005&bg_color=030712&color=00F5FF&line=8B5CF6&point=00F5FF&area=true&hide_border=true"/></div>---
 
 "> git trophies"
 
@@ -300,18 +344,13 @@ DSA / System Design         ██████░░░░░░░░░░░�
 "> cat /connect.txt"
 
 <div align="center"><a href="https://github.com/simhadris17012005">
-<img src="https://img.shields.io/badge/GitHub-05070A?style=for-the-badge&logo=github&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=00F5FF"/>
 </a><a href="https://www.linkedin.com/in/simhadri-bhukya-7882b3241">
-<img src="https://img.shields.io/badge/LinkedIn-05070A?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-030712?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
 </a><a href="mailto:simhadris554@gmail.com">
-<img src="https://img.shields.io/badge/Email-05070A?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
-</a><br><br>
+<img src="https://img.shields.io/badge/Email-030712?style=for-the-badge&logo=gmail&logoColor=8B5CF6"/>
+</a></div><br><div align="center">"Build. Learn. Ship. Repeat."
 
-<img src="https://img.shields.io/badge/Build-Learn-05070A?style=for-the-badge&logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/Ship-Repeat-05070A?style=for-the-badge&logoColor=8B5CF6"/></div>---
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1600&color=00F5FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Building+AI+applications.;Learning+every+day.;Shipping+real+projects."/><br><br>
 
-<div align="center">"> echo "Build. Learn. Ship. Repeat.""
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1500&color=00F5FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!;Building+AI+applications.;Learning+every+day.;Shipping+real+projects."/><br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:05070A,50:111827,100:8B5CF6&animation=fadeIn"/></div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:030712,50:111827,100:1E40AF&animation=fadeIn"/></div>
