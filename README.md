@@ -100,15 +100,7 @@ I enjoy creating complete applications—from training ML models to developing m
 
 </div>
 
-<br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=simhadris17&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 📈 Contribution Activity
 
