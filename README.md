@@ -8,9 +8,9 @@
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/simhadris17012005?style=for-the-badge&logo=github&color=181717"/>
+<img src="https://img.shields.io/github/followers/simhadris17?style=for-the-badge&logo=github&color=181717"/>
 <img src="https://img.shields.io/github/stars/simhadris17012005?style=for-the-badge&color=FFD700"/>
-<img src="https://komarev.com/ghpvc/?username=simhadris17012005&style=for-the-badge&color=7C3AED"/>
+<img src="https://komarev.com/ghpvc/?username=simhadris17&style=for-the-badge&color=7C3AED"/>
 <img src="https://img.shields.io/badge/Open%20Source-Love-E91E63?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI-Engineering-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Machine-Learning-9333EA?style=for-the-badge"/>
@@ -94,13 +94,9 @@ I enjoy creating complete applications—from training ML models to developing m
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=simhadris17012005&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simhadris17012005&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simhadris17&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -108,7 +104,7 @@ I enjoy creating complete applications—from training ML models to developing m
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=simhadris17012005&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=simhadris17&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -118,7 +114,7 @@ I enjoy creating complete applications—from training ML models to developing m
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simhadris17012005&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=simhadris17&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -128,7 +124,7 @@ I enjoy creating complete applications—from training ML models to developing m
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=simhadris17012005&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=simhadris17&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -183,11 +179,11 @@ AI-powered movie recommendation engine using NLP and Cosine Similarity.
 
 <br>
 
-<a href="YOUR_REPOSITORY_LINK">
+<a href="https://github.com/simhadris17/Movie-Recommendation-System">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LIVE_DEMO">
+<a href="soon to release">
 <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge"/>
 </a>
 
@@ -240,11 +236,11 @@ End-to-end Machine Learning web application for sentiment prediction.
 
 <br>
 
-<a href="YOUR_REPOSITORY_LINK">
+<a href="https://github.com/simhadris17/Twitter-Sentiment-Analysis">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LIVE_DEMO">
+<a href="soon release">
 <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge"/>
 </a>
 
@@ -285,7 +281,7 @@ Predict customer churn using supervised machine learning algorithms.
 
 <br>
 
-<a href="YOUR_REPOSITORY_LINK">
+<a href="https://github.com/simhadris17/customer-churn-prediction">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -336,7 +332,7 @@ Translate text instantly using AI-powered language models.
 
 <br>
 
-<a href="YOUR_REPOSITORY_LINK">
+<a href="">
 <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
