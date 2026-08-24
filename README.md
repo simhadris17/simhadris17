@@ -92,31 +92,12 @@ I enjoy creating complete applications—from training ML models to developing m
 
 </div>
 
----
-
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simhadris17&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
 
 # 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=simhadris17&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=simhadris17&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
