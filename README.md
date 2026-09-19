@@ -1,368 +1,77 @@
-<div align="center">
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
+<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:090909,25:0F172A,50:1E3A8A,75:6D28D9,100:9333EA&text=BHUKYA%20SIMHADRI&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=60&animation=fadeIn"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/light.svg">
+  <img alt="Arif Hasan" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/main/light.svg">
+</picture>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Production-Ready+AI+Applications;Machine+Learning+%7C+FastAPI+%7C+React;Always+Learning+New+Technologies;Open+Source+Enthusiast"/>
-
-<br><br>
-
-<img src="https://img.shields.io/github/followers/simhadris17?style=for-the-badge&logo=github&color=181717"/>
-<img src="https://img.shields.io/github/stars/simhadris17012005?style=for-the-badge&color=FFD700"/>
-<img src="https://komarev.com/ghpvc/?username=simhadris17&style=for-the-badge&color=7C3AED"/>
-<img src="https://img.shields.io/badge/Open%20Source-Love-E91E63?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Engineering-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine-Learning-9333EA?style=for-the-badge"/>
-
-</div>
-
----
-
-# 💎 About Me
-
-<img align="right" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDRjdDRvbW9iN2U0cmRjM2Y2eDdzNnA1M2Nva2h6Zm5pcXN0eml4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
-
-### 👋 Hello!
-
-I'm **Bhukya Simhadri**, a passionate **AI Engineer** and **Machine Learning Developer** focused on building intelligent software that solves real-world problems.
-
-I enjoy creating complete applications—from training ML models to developing modern APIs and interactive user interfaces.
-
-### 🎯 Current Focus
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- ⚡ FastAPI Backend Development
-- 💻 React Frontend Development
-- 🐳 Docker
-- ☁️ Cloud Deployment
-
----
-
-### 🌱 Currently Learning
-
-- Large Language Models (LLMs)
-- AI Agents
-- Deep Learning
-- System Design
-- Kubernetes
-- AWS
-
----
-
-### 💡 Philosophy
-
-> **"Code with purpose. Build with quality. Learn continuously."**
-
----
-# ⚡ Tech Stack
+<!-- ===== GITHUB STATS ===== -->
 
 <div align="center">
 
-### 💻 Languages
+<!-- Streak — full width -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=arifhaxn&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=arifhaxn&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Arif's streak" />
+</picture>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
-</p>
+<br/>
 
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
-</p>
-
-### ☁️ Tools & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,linux" />
-</p>
+<!-- Stats + Top languages — side by side -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=arifhaxn&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=arifhaxn&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Arif's GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=arifhaxn&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=arifhaxn&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
+</picture>
 
 </div>
 
-
-
-
-# 📌 Quick Highlights
+<!-- ===== CONTRIBUTION SNAKE ===== -->
 
 <div align="center">
 
-| 🚀 Focus | 💡 Status |
-|-----------|-----------|
-| 🤖 AI Engineering | Active |
-| 🧠 Machine Learning | Advanced Learning |
-| ⚡ FastAPI | Building APIs |
-| 💻 React | Production UI |
-| 🐳 Docker | Learning |
-| ☁️ Cloud | In Progress |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-light.svg" />
+</picture>
 
 </div>
 
----
+<!-- ===== END SNAKE ===== -->
+<br/>
+<br/>
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/projects/projects.svg" alt="Projects" />
+</div>
 
+<!-- ===== SOCIAL BADGES ===== -->
+<br/>
 <div align="center">
 
-### ⚡ *"Consistency beats intensity."*
-
-</div>
-# 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🎬 Movie Recommendation System
-
-AI-powered movie recommendation engine using NLP and Cosine Similarity.
-
-### ✨ Features
-
-- Smart Recommendations
-- TMDB Dataset
-- Fast Search
-- Interactive UI
-
-### 🛠 Tech Stack
-
-`Python` `Scikit-Learn` `Pandas` `Streamlit`
-
-<br>
-
-<a href="https://github.com/simhadris17/Movie-Recommendation-System">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+<a href="https://www.linkedin.com/in/arif-hasan-672249358/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
 </a>
-
-<a href="soon to release">
-<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge"/>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/arifhaxn/">
+  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" />
 </a>
-
-</td>
-
-<td width="50%">
-
-<img src="images/movie-recommendation.gif" width="100%"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<img src="images/twitter-sentiment.gif" width="100%"/>
-
-</td>
-
-<td width="50%">
-
-## 💬 Twitter Sentiment Analysis
-
-End-to-end Machine Learning web application for sentiment prediction.
-
-### ✨ Features
-
-- Real-time Prediction
-- Analytics Dashboard
-- FastAPI Backend
-- React Frontend
-
-### 🛠 Tech Stack
-
-`FastAPI`
-
-`React`
-
-`Scikit-Learn`
-
-`SQLite`
-
-<br>
-
-<a href="https://github.com/simhadris17/Twitter-Sentiment-Analysis">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/arifhaxnn">
+  <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" />
 </a>
-
-<a href="soon release">
-<img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge"/>
+&nbsp;&nbsp;
+<a href="mailto:arifhasan.connect@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
 </a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 📊 Customer Churn Prediction
-
-Predict customer churn using supervised machine learning algorithms.
-
-### ✨ Features
-
-- Data Analysis
-- Feature Engineering
-- Prediction Dashboard
-- Interactive Charts
-
-### 🛠 Tech Stack
-
-`Python`
-
-`Pandas`
-
-`Scikit-Learn`
-
-`Matplotlib`
-
-<br>
-
-<a href="https://github.com/simhadris17/customer-churn-prediction">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-<img src="images/churn.gif" width="100%"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<img src="images/translation.gif" width="100%"/>
-
-</td>
-
-<td width="50%">
-
-## 🌍 AI Language Translation Tool
-
-Translate text instantly using AI-powered language models.
-
-### ✨ Features
-
-- Multiple Languages
-- Instant Translation
-- Clean UI
-- Lightweight
-
-### 🛠 Tech Stack
-
-`Python`
-
-`Streamlit`
-
-`Deep Translator`
-
-<br>
-
-<a href="">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🤖 NEXORA AI Workspace
-
-Modern AI productivity workspace combining intelligent automation and powerful tools.
-
-### ✨ Features
-
-- AI Workspace
-- FastAPI Backend
-- React Frontend
-- Modern UI
-
-### 🛠 Tech Stack
-
-`FastAPI`
-
-`React`
-
-`PostgreSQL`
-
-`Docker`
-
-<br>
-
-<a href="YOUR_REPOSITORY_LINK">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-<img src="images/nexora.gif" width="100%"/>
-
-</td>
-
-</tr>
-
-</table>
-
+&nbsp;&nbsp;
 </div>
 
----
+<!-- ===== END SOCIAL BADGES ===== -->
 
-# 🌱 Current Focus
-
-- 🤖 Building production-ready AI applications
-- 🧠 Learning LLMs & AI Agents
-- ⚡ Mastering FastAPI & React
-- ☁️ Exploring Cloud & Docker
-- 🌍 Contributing to Open Source
-- 📚 Improving DSA & System Design
+<!-- =================================== -->
