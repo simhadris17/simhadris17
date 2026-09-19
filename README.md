@@ -93,15 +93,7 @@ I enjoy creating complete applications—from training ML models to developing m
 </div>
 
 
-# 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=simhadris17&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
 
 # 📌 Quick Highlights
 
