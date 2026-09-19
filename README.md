@@ -63,7 +63,7 @@ I enjoy creating complete applications—from training ML models to developing m
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 </p>
 
 ### 🎨 Frontend
