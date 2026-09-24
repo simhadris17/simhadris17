@@ -73,7 +73,11 @@
   clip-path="url(#vmClipD)"
   preserveAspectRatio="xMidYMid slice" opacity="0">
   <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.3s" fill="freeze"/>
-</image>
+    <animate attributeName="x" values="106;109;106" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="y" values="180;177;180" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="260;254;260" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="height" values="260;254;260" dur="5s" repeatCount="indefinite"/>
+  </image>
 <polyline points="94,186 94,168 112,168" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0">
   <animate attributeName="opacity" from="0" to="0.8" dur="0.5s" begin="0.8s" fill="freeze"/>
 </polyline>
