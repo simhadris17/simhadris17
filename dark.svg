@@ -26,9 +26,6 @@
 <circle cx="50" cy="25.0" r="5.5" fill="#ffbd2e"/>
 <circle cx="70" cy="25.0" r="5.5" fill="#27c93f"/>
 <text x="590.0" y="29.0" text-anchor="middle" font-size="12" fill="#94A3B8">simhadris17.connect@gmail.com - % ./profile.sh --live</text>
-<text x="38" y="74" font-size="10" letter-spacing="3" fill="#475569">VISUAL.MAP</text>
-<rect x="36" y="84" width="400" height="492" rx="10" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0.45" filter="url(#glow3)"/>
-<rect x="36" y="84" width="400" height="492" rx="10" fill="#0A101F" stroke="rgba(34,211,238,0.35)"/>
 <text x="470" y="106" font-size="13" letter-spacing="2" fill="#22D3EE" filter="url(#txtGlow)">SYSTEM.INFO</text>
 <line x1="566" y1="102" x2="1061" y2="102" stroke="rgba(255,255,255,0.10)"/>
 <text x="1125" y="106" text-anchor="end" font-size="12" fill="#F87171" font-weight="700"><tspan>&#9679;</tspan> LIVE<animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></text>
