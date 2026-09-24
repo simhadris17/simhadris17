@@ -78,6 +78,16 @@
     <animate attributeName="width" values="260;254;260" dur="5s" repeatCount="indefinite"/>
     <animate attributeName="height" values="260;254;260" dur="5s" repeatCount="indefinite"/>
   </image>
+<g clip-path="url(#vmClipD)" pointer-events="none">
+  <rect x="106" y="354" width="260" height="62" fill="#070B16" opacity="0.78">
+    <animate attributeName="opacity" values="0;0.78;0.78" dur="0.8s" begin="1.1s" fill="freeze"/>
+  </rect>
+  <text x="236" y="386" text-anchor="middle" font-size="20" font-weight="700" letter-spacing="2" fill="#F8FAFC" opacity="0">
+    SIMHADRI BHUKYA
+    <animate attributeName="opacity" values="0;1" dur="0.7s" begin="1.25s" fill="freeze"/>
+    <animate attributeName="textLength" values="0;220" dur="0.7s" begin="1.25s" fill="freeze"/>
+  </text>
+</g>
 <polyline points="94,186 94,168 112,168" fill="none" stroke="#22D3EE" stroke-width="2" opacity="0">
   <animate attributeName="opacity" from="0" to="0.8" dur="0.5s" begin="0.8s" fill="freeze"/>
 </polyline>
